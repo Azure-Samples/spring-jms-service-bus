@@ -25,9 +25,6 @@ public class QueueReceiveController {
     @Value("${spring.jms.servicebus.connection-string}")
     private String connectionString;
 
-    @Value("${spring.jms.servicebus.topic-client-id}")
-    private String clientId = "";
-
     @Value("${spring.jms.servicebus.idle-timeout}")
     private int idleTimeout;
 
@@ -47,7 +44,6 @@ public class QueueReceiveController {
         String remoteUri = String.format(AMQP_URI_FORMAT, host, idleTimeout);
         JmsConnectionFactory jmsConnectionFactory = new JmsConnectionFactory();
         jmsConnectionFactory.setRemoteURI(remoteUri);
-        jmsConnectionFactory.setClientID(clientId);
         jmsConnectionFactory.setUsername(sasKeyName);
         jmsConnectionFactory.setPassword(sasKey);
         return new CachingConnectionFactory(jmsConnectionFactory);
