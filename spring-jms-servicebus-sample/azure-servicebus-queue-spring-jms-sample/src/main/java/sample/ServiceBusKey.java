@@ -7,8 +7,11 @@
 package sample;
 
 public class ServiceBusKey {
+
     private final String host;
+
     private final String sharedAccessKeyName;
+
     private final String sharedAccessKey;
 
     ServiceBusKey(String host, String sharedAccessKeyName, String sharedAccessKey) {

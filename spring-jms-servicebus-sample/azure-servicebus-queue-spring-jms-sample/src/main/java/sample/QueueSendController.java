@@ -17,9 +17,9 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 public class QueueSendController {
 
-    private static final String QUEUE_NAME = "que001";
-    private static final Logger logger = LoggerFactory.getLogger(QueueSendController.class);
+    private static final String QUEUE_NAME = "testqueue";
 
+    private static final Logger logger = LoggerFactory.getLogger(QueueSendController.class);
 
     @Autowired
     private JmsTemplate jmsTemplate;
