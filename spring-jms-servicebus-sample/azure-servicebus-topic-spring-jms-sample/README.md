@@ -32,7 +32,7 @@ Running this sample will be charged by Azure. You can check the usage and bill a
     spring.jms.servicebus.idle-timeout=[idle-timeout]
     ```
 
-3. Specify your topic name and subscription name. Update `TOPIC_NAME` in [TopicSendController](src\main\java\sample\TopicSendController.java) and [TopicReceiveController](src\main\java\sample\TopicReceiveController.java), and `SUBSCRIPTION_NAME` in [TopicReceiveController](src\main\java\sample\TopicReceiveController.java).
+3. Specify your topic name and subscription name. Update `TOPIC_NAME` in [TopicSendController](./src/main/java/sample/TopicSendController.java) and [TopicReceiveController](./src/main/java/sample/TopicReceiveController.java), and `SUBSCRIPTION_NAME` in [TopicReceiveController](./src/main/java/sample/TopicReceiveController.java).
 
 ### How to run
 

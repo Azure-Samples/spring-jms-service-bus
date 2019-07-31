@@ -8,6 +8,6 @@ These modules [Service Bus Queue Sample](./spring-jms-servicebus-sample/azure-se
 
 Please refer to specific `README.md` of related module for detail usage according to your needs.
 
-* [README.md](spring-jms-servicebus-sample\azure-servicebus-queue-spring-jms-sample\README.md) for Spring JMS for Azure Service Bus Queue usage
+* [README.md](./spring-jms-servicebus-sample/azure-servicebus-queue-spring-jms-sample/README.md) for Spring JMS for Azure Service Bus Queue usage
 
-* [README.md](spring-jms-servicebus-sample\azure-servicebus-topic-spring-jms-sample\README.md) for Spring JMS for Azure Service Bus Topic usage
+* [README.md](./spring-jms-servicebus-sample/azure-servicebus-topic-spring-jms-sample/README.md) for Spring JMS for Azure Service Bus Topic usage

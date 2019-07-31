@@ -29,7 +29,7 @@ Running this sample will be charged by Azure. You can check the usage and bill a
     spring.jms.servicebus.idle-timeout=[idle-timeout]
     ```
 
-3. Specify your queue name. Update `QUEUE_NAME` in [QueueSendController](src\main\java\sample\QueueSendController.java) and [QueueReceiveController](src\main\java\sample\QueueReceiveController.java).
+3. Specify your queue name. Update `QUEUE_NAME` in [QueueSendController](./src/main/java/sample/QueueSendController.java) and [QueueReceiveController](./src/main/java/sample/QueueReceiveController.java).
                                                                                                                                                                                     
 ### How to run
 
