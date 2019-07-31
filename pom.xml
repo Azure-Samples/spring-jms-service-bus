@@ -10,7 +10,7 @@
     <version>1.0-SNAPSHOT</version>
 
     <modules>
-        <module>azure-servicebus-spring-boot-jms-sample</module>
+        <module>spring-jms-servicebus-sample</module>
     </modules>
 
 </project>
