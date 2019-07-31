@@ -1,42 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9cc72a41-8997-4c8a-bfbd-a8eb8d2ebf60" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/azure-servicebus-spring-boot-jms-sample/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/azure-servicebus-spring-boot-jms-sample/azure-servicebus-queue-spring-boot-jms-sample/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/azure-servicebus-spring-boot-jms-sample/azure-servicebus-queue-spring-boot-jms-sample/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/azure-servicebus-spring-boot-jms-sample/azure-servicebus-queue-spring-boot-jms-sample/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/azure-servicebus-spring-boot-jms-sample/azure-servicebus-queue-spring-boot-jms-sample/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/azure-servicebus-spring-boot-jms-sample/azure-servicebus-queue-spring-boot-jms-sample/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/azure-servicebus-spring-boot-jms-sample/azure-servicebus-queue-spring-boot-jms-sample/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/azure-servicebus-spring-boot-jms-sample/azure-servicebus-queue-spring-boot-jms-sample/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/azure-servicebus-spring-boot-jms-sample/azure-servicebus-queue-spring-boot-jms-sample/src/main/java/sample/jms/queue/ServiceBusQueueSpringBootJmsReceiveController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/azure-servicebus-spring-boot-jms-sample/azure-servicebus-queue-spring-boot-jms-sample/src/main/java/sample/jms/queue/ServiceBusQueueSpringBootJmsSampleApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/azure-servicebus-spring-boot-jms-sample/azure-servicebus-queue-spring-boot-jms-sample/src/main/java/sample/jms/queue/ServiceBusQueueSpringBootJmsSendController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/azure-servicebus-spring-boot-jms-sample/azure-servicebus-queue-spring-boot-jms-sample/src/main/java/sample/jms/queue/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/azure-servicebus-spring-boot-jms-sample/azure-servicebus-queue-spring-boot-jms-sample/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/azure-servicebus-spring-boot-jms-sample/azure-servicebus-queue-spring-boot-jms-sample/src/main/resources/log4j.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/azure-servicebus-spring-boot-jms-sample/azure-servicebus-queue-spring-boot-jms-sample/src/test/java/sample/jms/queue/ServiceBusQueueSpringBootJmsSampleApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/azure-servicebus-spring-boot-jms-sample/azure-servicebus-topic-spring-boot-jms-sample/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/azure-servicebus-spring-boot-jms-sample/azure-servicebus-topic-spring-boot-jms-sample/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/azure-servicebus-spring-boot-jms-sample/azure-servicebus-topic-spring-boot-jms-sample/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/azure-servicebus-spring-boot-jms-sample/azure-servicebus-topic-spring-boot-jms-sample/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/azure-servicebus-spring-boot-jms-sample/azure-servicebus-topic-spring-boot-jms-sample/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/azure-servicebus-spring-boot-jms-sample/azure-servicebus-topic-spring-boot-jms-sample/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/azure-servicebus-spring-boot-jms-sample/azure-servicebus-topic-spring-boot-jms-sample/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/azure-servicebus-spring-boot-jms-sample/azure-servicebus-topic-spring-boot-jms-sample/src/main/java/sample/jms/topic/ServiceBusTopicSpringBootJmsReceiveController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/azure-servicebus-spring-boot-jms-sample/azure-servicebus-topic-spring-boot-jms-sample/src/main/java/sample/jms/topic/ServiceBusTopicSpringBootJmsSampleApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/azure-servicebus-spring-boot-jms-sample/azure-servicebus-topic-spring-boot-jms-sample/src/main/java/sample/jms/topic/ServiceBusTopicSpringBootJmsSendController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/azure-servicebus-spring-boot-jms-sample/azure-servicebus-topic-spring-boot-jms-sample/src/main/java/sample/jms/topic/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/azure-servicebus-spring-boot-jms-sample/azure-servicebus-topic-spring-boot-jms-sample/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/azure-servicebus-spring-boot-jms-sample/azure-servicebus-topic-spring-boot-jms-sample/src/main/resources/log4j.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/azure-servicebus-spring-boot-jms-sample/azure-servicebus-topic-spring-boot-jms-sample/src/test/java/sample/jms/topic/ServiceBusTopicSpringBootJmsSampleApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/azure-servicebus-spring-boot-jms-sample/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/azure-servicebus-spring-boot-jms-sample/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/azure-servicebus-spring-boot-jms-sample/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="9cc72a41-8997-4c8a-bfbd-a8eb8d2ebf60" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/azure-servicebus-jms-queue-spring-boot-sample/target/" />
     <ignored path="$PROJECT_DIR$/azure-servicebus-jms-topic-spring-boot-sample/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -51,16 +16,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/azure-servicebus-spring-boot-jms-sample/azure-servicebus-queue-spring-boot-jms-sample/src/main/java/sample/jms/queue/ServiceBusQueueSpringBootJmsSendController.java">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/azure-servicebus-spring-boot-jms-sample/azure-servicebus-queue-spring-boot-jms-sample/src/main/java/sample/jms/queue/User.java">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/azure-servicebus-spring-boot-jms-sample/azure-servicebus-queue-spring-boot-jms-sample/src/main/resources/application.properties">
           <provider selected="true" editor-type-id="text-editor">
@@ -84,19 +39,19 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor>
-                <caret column="8" selection-start-column="8" selection-end-column="8" />
+              <first_editor relative-caret-position="66">
+                <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
               </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="352">
@@ -106,22 +61,28 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.idea/uiDesigner.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.idea/encodings.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.idea/compiler.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/azure-servicebus-spring-boot-jms-sample/azure-servicebus-topic-spring-boot-jms-sample/src/main/resources/log4j.properties">
           <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/azure-servicebus-spring-boot-jms-sample/azure-servicebus-topic-spring-boot-jms-sample/src/main/java/sample/jms/topic/ServiceBusTopicSpringBootJmsSampleApplication.java">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/azure-servicebus-spring-boot-jms-sample/azure-servicebus-topic-spring-boot-jms-sample/src/main/java/sample/jms/topic/ServiceBusTopicSpringBootJmsReceiveController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="356">
-              <caret line="31" column="46" lean-forward="true" selection-start-line="31" selection-start-column="38" selection-end-line="31" selection-end-column="46" />
-            </state>
-          </provider>
         </entry>
       </file>
     </leaf>
@@ -271,6 +232,7 @@
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
@@ -346,27 +308,19 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24832000" />
+    <option name="totallyTimeSpent" value="24843000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
     <layout>
-      <window_info id="Designer" />
-      <window_info id="Image Layers" />
-      <window_info id="Capture Tool" />
-      <window_info id="UI Designer" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info id="Web" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29689175" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Spring" />
-      <window_info anchor="bottom" id="Terminal" weight="0.42527473" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" />
-      <window_info anchor="bottom" id="Java Enterprise" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" weight="0.32967034" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Web" order="6" side_tool="true" />
+      <window_info id="Image Layers" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.6098901" />
@@ -374,165 +328,46 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Bean Validation" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.42527473" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Java Enterprise" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Version Control" order="12" weight="0.32967034" />
+      <window_info anchor="bottom" id="Docker" order="13" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="14" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/azure-servicebus-jms-queue-spring-boot-sample/src/main/java/sample/jms/queue/User.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/azure-servicebus-jms-queue-spring-boot-sample/src/main/java/sample/jms/queue/QueueSendController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/azure-servicebus-jms-queue-spring-boot-sample/src/main/java/sample/jms/queue/QueueReceiveController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/azure-servicebus-jms-queue-spring-boot-sample/src/main/java/sample/jms/queue/ServiceBusJMSQueueApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/azure-servicebus-jms-topic-spring-boot-sample/src/main/java/sample/jms/topic/User.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/azure-servicebus-jms-topic-spring-boot-sample/src/main/java/sample/jms/topic/TopicSendController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/azure-servicebus-jms-topic-spring-boot-sample/src/main/java/sample/jms/topic/TopicReceiveController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/azure-servicebus-jms-topic-spring-boot-sample/azure-servicebus-jms-topic-spring-boot-sample.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/azure-servicebus-jms-topic-spring-boot-sample/src/main/java/sample/jms/topic/ServiceBusJMSTopicApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/azure-servicebus-jms-topic-spring-boot-sample/src/main/resources/log4j.properties">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/azure-servicebus-jms-topic-spring-boot-sample/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/azure-servicebus-jms-queue-spring-boot-sample/src/main/resources/log4j.properties">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/azure-servicebus-jms-queue-spring-boot-sample/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/azure-servicebus-jms-queue-spring-boot-sample/src/main/java/sample/jms/queue/QueueReceiveController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="16" column="54" lean-forward="true" selection-start-line="16" selection-start-column="54" selection-end-line="16" selection-end-column="54" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/azure-servicebus-jms-queue-spring-boot-sample/src/main/java/sample/jms/queue/QueueSendController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/azure-servicebus-jms-queue-spring-boot-sample/src/main/java/sample/jms/queue/ServiceBusJMSQueueApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="18" column="73" lean-forward="true" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="73" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/azure-servicebus-jms-queue-spring-boot-sample/src/main/java/sample/jms/queue/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="484">
-          <caret line="28" selection-start-line="28" selection-end-line="28" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/azure-servicebus-jms-queue-spring-boot-sample/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="21" column="8" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/azure-servicebus-jms-topic-spring-boot-sample/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="21" column="24" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/azure-servicebus-jms-queue-spring-boot-sample/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="286">
-            <caret line="52" column="12" selection-start-line="52" selection-start-column="12" selection-end-line="52" selection-end-column="37" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/azure-servicebus-jms-topic-spring-boot-sample/src/main/java/sample/jms/topic/User.java" />
+    <entry file="file://$PROJECT_DIR$/azure-servicebus-jms-topic-spring-boot-sample/src/main/java/sample/jms/topic/TopicSendController.java" />
+    <entry file="file://$PROJECT_DIR$/azure-servicebus-jms-topic-spring-boot-sample/src/main/java/sample/jms/topic/TopicReceiveController.java" />
+    <entry file="file://$PROJECT_DIR$/azure-servicebus-jms-topic-spring-boot-sample/azure-servicebus-jms-topic-spring-boot-sample.iml" />
+    <entry file="file://$PROJECT_DIR$/azure-servicebus-jms-topic-spring-boot-sample/src/main/java/sample/jms/topic/ServiceBusJMSTopicApplication.java" />
+    <entry file="file://$PROJECT_DIR$/azure-servicebus-jms-topic-spring-boot-sample/src/main/resources/log4j.properties" />
+    <entry file="file://$PROJECT_DIR$/azure-servicebus-jms-topic-spring-boot-sample/src/main/resources/application.properties" />
+    <entry file="file://$PROJECT_DIR$/azure-servicebus-jms-queue-spring-boot-sample/src/main/resources/log4j.properties" />
+    <entry file="file://$PROJECT_DIR$/azure-servicebus-jms-queue-spring-boot-sample/src/main/resources/application.properties" />
+    <entry file="file://$PROJECT_DIR$/azure-servicebus-jms-queue-spring-boot-sample/src/main/java/sample/jms/queue/QueueReceiveController.java" />
+    <entry file="file://$PROJECT_DIR$/azure-servicebus-jms-queue-spring-boot-sample/src/main/java/sample/jms/queue/QueueSendController.java" />
+    <entry file="file://$PROJECT_DIR$/azure-servicebus-jms-queue-spring-boot-sample/src/main/java/sample/jms/queue/ServiceBusJMSQueueApplication.java" />
+    <entry file="file://$PROJECT_DIR$/azure-servicebus-jms-queue-spring-boot-sample/src/main/java/sample/jms/queue/User.java" />
+    <entry file="file://$PROJECT_DIR$/azure-servicebus-jms-queue-spring-boot-sample/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/azure-servicebus-jms-topic-spring-boot-sample/pom.xml" />
+    <entry file="file://$PROJECT_DIR$/azure-servicebus-jms-queue-spring-boot-sample/README.md" />
     <entry file="file://$PROJECT_DIR$/azure-servicebus-spring-boot-jms-sample/pom.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -542,16 +377,7 @@
     <entry file="file://$PROJECT_DIR$/azure-servicebus-spring-boot-jms-sample/mvnw">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/azure-servicebus-jms-topic-spring-boot-sample/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="460">
-            <caret line="23" column="8" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/azure-servicebus-jms-topic-spring-boot-sample/README.md" />
     <entry file="file://$PROJECT_DIR$/azure-servicebus-spring-boot-jms-sample/azure-servicebus-topic-spring-boot-jms-sample/src/main/java/sample/jms/topic/User.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="352">
@@ -645,8 +471,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor>
-            <caret column="8" selection-start-column="8" selection-end-column="8" />
+          <first_editor relative-caret-position="66">
+            <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
           </first_editor>
           <second_editor />
         </state>
