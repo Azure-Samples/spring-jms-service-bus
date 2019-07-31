@@ -6,7 +6,6 @@
 
 package sample;
 
-import com.microsoft.azure.servicebus.primitives.ConnectionStringBuilder;
 import org.apache.qpid.jms.JmsConnectionFactory;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
