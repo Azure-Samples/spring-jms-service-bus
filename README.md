@@ -1,57 +1,13 @@
-# Project Name
+## Overview
 
-(short, 1-3 sentenced, description of the project)
+This is sample project show how to use Spring integration JMS with Azure Service Bus.
 
-## Features
+## How to use
 
-This project framework provides the following features:
+These modules [Service Bus Queue Sample](./spring-jms-service-bus-queue-sample/) and [Service Bus Topic Sample](./spring-jms-service-bus-topic-sample/) respectively demonstrates how to use Spring JMS Queue and Topic for Azure Service Bus.
 
-* Feature 1
-* Feature 2
-* ...
+Please refer to specific `README` of related module for detail usage according to your needs.
 
-## Getting Started
+* [README](./spring-jms-service-bus-queue-sample/README.md) for Spring JMS for Azure Service Bus Queue usage
 
-### Prerequisites
-
-(ideally very short, if any)
-
-- OS
-- Library version
-- ...
-
-### Installation
-
-(ideally very short)
-
-- npm install [package name]
-- mvn install
-- ...
-
-### Quickstart
-(Add steps to get up and running quickly)
-
-1. git clone [repository clone url]
-2. cd [respository name]
-3. ...
-
-
-## Demo
-
-A demo app is included to show how to use the project.
-
-To run the demo, follow these steps:
-
-(Add steps to start up the demo)
-
-1.
-2.
-3.
-
-## Resources
-
-(Any additional resources or related projects)
-
-- Link to supporting information
-- Link to similar sample
-- ...
+* [README](./spring-jms-service-bus-topic-sample/README.md) for Spring JMS for Azure Service Bus Topic usage
