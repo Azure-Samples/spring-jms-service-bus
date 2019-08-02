@@ -10,10 +10,10 @@
         <relativePath>../pom.xml</relativePath>
     </parent>
 
-    <artifactId>azure-servicebus-queue-spring-boot-jms-sample</artifactId>
+    <artifactId>spring-jms-service-bus-queue-sample</artifactId>
     <packaging>jar</packaging>
-    <name>azure-servicebus-queue-spring-boot-jms-sample</name>
-    <description>Sample project for Spring Messaging with Service Bus</description>
+    <name>spring-jms-service-bus-queue-sample</name>
+    <description>Sample project for Spring JMS with Service Bus Queue</description>
 
     <properties>
         <java.version>1.8</java.version>
