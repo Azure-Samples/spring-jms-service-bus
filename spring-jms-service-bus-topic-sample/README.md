@@ -25,6 +25,7 @@ Running this sample will be charged by Azure. You can check the usage and bill a
     spring.jms.servicebus.connection-string=[servicebus-namespace-connection-string]
     
     # The JMS client id needs to be specified when using topic and durable subscription
+    # Value refers to the Service Bus subscription ID in your azure portal
     spring.jms.servicebus.topic-client-id=[topic-client-id]
     
     # The idle timeout in milliseconds after which the connection will be failed if the peer sends no AMQP frames
